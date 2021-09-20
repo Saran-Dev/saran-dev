@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 Personal Website [Click Here!](https://saranlol.github.io/sarank-portfolio-website/)
 
 - 💬 Ask me about **Js , web development and discord bots**
 
