@@ -76,4 +76,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'> Thank you for visiting my github profile, make sure to checkout my repos and star them!</footer>
