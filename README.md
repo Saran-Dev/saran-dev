@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Saran-Dev.Saran-Dev)
 
 </p>
-<div size='20px'> Hi! My name is Saran Kanapathy. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Saran Kanapathy. I am a young passionate developer From Sri Lanka!
 </div>
 
 <h2> About Me </h2>
